@@ -194,20 +194,16 @@ WARNING: Les répertoires et fichiers existants devront être complétés et mis
 
 Voici les pré-requis pour exécuter nos codes d'évaluation.
 
-- Java v.x.y.z
-- ...
+- Exécuter les tests avec JUnit
 
 === Reproductibilité
 
 - Pour reproduire nos analyses :
-. Installez X
-. Lancez Y
-. ...
+. Exécuter les tests avec JUnit
 
 === Références
 
-- link:http://xyz[Mon super outil XYZ]
-- ...
+- None
 
 == Généralités, notation de la SAÉ et résultat du concours
 
